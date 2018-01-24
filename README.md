@@ -1,2 +1,1 @@
-# TerminalApps-ionic-android
-Mobile application for TerminalApps using Ionic
+# Mobile Net Scripts for Real time object detection
